@@ -1,7 +1,7 @@
 Git is a distributed version control system.
 ekent
-Git is a free software distributed under the GPL.
-Git has alotof mutable index called stage!
+Git is a lot software distributed under the GPL.
+Git has a lotof mutable index called stage!
 Git tracks not of files.
 Creating a news branch is quick and simple.
 master1
